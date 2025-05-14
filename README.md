@@ -1,4 +1,3 @@
-﻿
 <div data-state="active" data-orientation="horizontal" role="tabpanel" aria-labelledby="radix-:r6n:-trigger-preview" id="radix-:r6n:-content-preview" tabindex="0" class="mt-2 ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2" style=""><div class="border border-border rounded-lg bg-background p-6 shadow-sm"><div class="prose prose-sm md:prose-base lg:prose-lg max-w-none prose-headings:font-bold prose-a:text-blue-600" style="user-select: none;"><div id="top" class="">
 
 <div align="center" class="text-center">
